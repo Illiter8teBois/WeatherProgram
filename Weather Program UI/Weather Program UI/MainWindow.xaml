@@ -2,7 +2,7 @@
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525">
-    <Grid>
+    <Grid Background="#FFD49898" Margin="0,0,0,-11">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="1*"/>
             <ColumnDefinition Width="3*"/>
@@ -16,28 +16,28 @@
             <Separator Height="54" Margin="24,0,25,0" Width="80" Background="{x:Null}"/>
             <TextBlock Text="Nearest Weather Radar" TextWrapping="Wrap" Height="66" Width="96" HorizontalAlignment="Left"/>
             <Button x:Name="btnProxyWin" Content="Proxy Settings" HorizontalAlignment="Left" VerticalAlignment="Top" Width="82" Background="#FFD19494"/>
-            <TextBlock Text="by Weather Program TM"/>
+            <TextBlock Text="Weather Program TM"/>
             <TextBlock Text="Ph:Go to Hell"/>
             <Separator Height="132" Margin="20,0,21,0" Width="88" Background="{x:Null}"/>
         </StackPanel>
-        <Image x:Name="imgWeather" Grid.Column="1" Grid.Row="0" Source="download.jpg" Margin="140,91,0,0" Height="100" Width="100" HorizontalAlignment="Left" VerticalAlignment="Top"/>
-        <TextBlock Name="txtWeather" Grid.Column="1" HorizontalAlignment="Left" Margin="140,191,0,0" TextWrapping="Wrap" Text="Sunny" VerticalAlignment="Top" Width="100" FontFamily="Sitka Display" FontSize="24" TextAlignment="Center"/>
-        <Image Grid.Column="1" HorizontalAlignment="Left" Height="66" Margin="49,125,0,0" VerticalAlignment="Top" Width="66" Source="download.jpg"/>
-        <Image Grid.Column="1" HorizontalAlignment="Right" Height="66" Margin="0,125,49,0" VerticalAlignment="Top" Width="66" Source="download.jpg"/>
-        <TextBlock Name="txtPress" Grid.Column="1" HorizontalAlignment="Left" Margin="49,199,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="66" Text="Humidity" TextAlignment="Center"/>
-        <TextBlock Name="txtHum" Grid.Column="1" HorizontalAlignment="Left" Margin="273,199,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="66" Text="Pressure" TextAlignment="Center"/>
-        <TextBlock Name="txtDate" Grid.Column="1" HorizontalAlignment="Left" Margin="70,21,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="Selected Date" Width="240" Height="32" TextAlignment="Center" FontSize="22"/>
-        <TextBlock Name="txtLocation" Grid.Column="1" HorizontalAlignment="Left" Margin="140,53,0,0" TextWrapping="Wrap" Text="Location" VerticalAlignment="Top" Width="100" Height="28" TextAlignment="Center" FontSize="18"/>
-        <TextBlock Name="txtMinTemp" Grid.Column="1" HorizontalAlignment="Left" Margin="70,226,0,0" TextWrapping="Wrap" Text="Min Temp" VerticalAlignment="Top" Width="100" TextAlignment="Center"/>
-        <TextBlock Name="txtMaxTemp" Grid.Column="1" HorizontalAlignment="Right" Margin="0,226,70,0" TextWrapping="Wrap" Text="Max Temp" VerticalAlignment="Top" RenderTransformOrigin="-0.38,0.627" Width="100" TextAlignment="Center"/>
-        <Button x:Name="btnGo" Content="Go!" HorizontalAlignment="Left" VerticalAlignment="Top" Width="36" Margin="93,132,0,0" Height="18" BorderBrush="#FFEAACAC"/>
-        <Image x:Name="imgFuture1" Grid.Column="1" Grid.Row="0" Source="download.jpg" Margin="39,247,0,0" Height="55" Width="55" HorizontalAlignment="Left" VerticalAlignment="Top"/>
-        <Image x:Name="imgFuture4" Grid.Column="1" Grid.Row="0" Source="download.jpg" Margin="0,247,39,0" Height="55" Width="55" HorizontalAlignment="Right" VerticalAlignment="Top"/>
-        <Image x:Name="imgFuture3" Grid.Column="1" Grid.Row="0" Source="download.jpg" Margin="0,247,127,0" Height="55" Width="55" HorizontalAlignment="Right" VerticalAlignment="Top"/>
-        <Image x:Name="imgFuture2" Grid.Column="1" Grid.Row="0" Source="download.jpg" Margin="127,247,0,0" Height="55" Width="55" HorizontalAlignment="Left" VerticalAlignment="Top"/>
-        <TextBlock x:Name="txtDay1" Grid.Column="1" HorizontalAlignment="Left" Margin="39,303,0,0" TextWrapping="Wrap" Text="Day1" VerticalAlignment="Top" Width="55" TextAlignment="Center" />
-        <TextBlock x:Name="txtDay2" Grid.Column="1" HorizontalAlignment="Left" Margin="127,303,0,0" TextWrapping="Wrap" Text="Day2" VerticalAlignment="Top" Width="55" TextAlignment="Center" />
-        <TextBlock x:Name="txtDay3" Grid.Column="1" HorizontalAlignment="Left" Margin="206,303,0,0" TextWrapping="Wrap" Text="Day3" VerticalAlignment="Top" Width="55" TextAlignment="Center" />
-        <TextBlock x:Name="txtDay4" Grid.Column="1" HorizontalAlignment="Left" Margin="294,303,0,0" TextWrapping="Wrap" Text="Day4" VerticalAlignment="Top" Width="55" TextAlignment="Center" />
+        <Image x:Name="imgWeather" Grid.Column="1" Grid.Row="0" Source="download.jpg" Margin="140,81,0,0" Height="100" Width="100" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <TextBlock Name="txtWeather" Grid.Column="1" HorizontalAlignment="Left" Margin="140,181,0,0" TextWrapping="Wrap" Text="Sunny" VerticalAlignment="Top" Width="100" FontFamily="Sitka Display" FontSize="24" TextAlignment="Center"/>
+        <TextBlock Name="txtPress" Grid.Column="1" HorizontalAlignment="Left" Margin="39,139,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="66" Text="Humidity" TextAlignment="Center"/>
+        <TextBlock Name="txtHum" Grid.Column="1" HorizontalAlignment="Left" Margin="271,139,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="66" Text="Pressure" TextAlignment="Center"/>
+        <TextBlock Name="txtDate" Grid.Column="1" HorizontalAlignment="Left" Margin="70,11,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="Selected Date" Width="240" Height="32" TextAlignment="Center" FontSize="22"/>
+        <TextBlock Name="txtLocation" Grid.Column="1" HorizontalAlignment="Left" Margin="140,43,0,0" TextWrapping="Wrap" Text="Location" VerticalAlignment="Top" Width="100" Height="28" TextAlignment="Center" FontSize="18"/>
+        <TextBlock Name="txtMinTemp" Grid.Column="1" HorizontalAlignment="Left" Margin="70,216,0,0" TextWrapping="Wrap" Text="Min Temp" VerticalAlignment="Top" Width="100" TextAlignment="Center"/>
+        <TextBlock Name="txtMaxTemp" Grid.Column="1" HorizontalAlignment="Right" Margin="0,216,70,0" TextWrapping="Wrap" Text="Max Temp" VerticalAlignment="Top" RenderTransformOrigin="-0.38,0.627" Width="100" TextAlignment="Center"/>
+        <Button x:Name="btnGo" Content="Go!" HorizontalAlignment="Left" VerticalAlignment="Top" Width="33" Margin="96,100,0,0" Height="18" BorderBrush="#FFEAACAC"/>
+        <Image x:Name="imgFuture1" Grid.Column="1" Grid.Row="0" Source="download.jpg" Margin="39,237,0,0" Height="55" Width="55" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Image x:Name="imgFuture4" Grid.Column="1" Grid.Row="0" Source="download.jpg" Margin="0,237,39,0" Height="55" Width="55" HorizontalAlignment="Right" VerticalAlignment="Top"/>
+        <Image x:Name="imgFuture3" Grid.Column="1" Grid.Row="0" Source="download.jpg" Margin="0,237,127,0" Height="55" Width="55" HorizontalAlignment="Right" VerticalAlignment="Top"/>
+        <Image x:Name="imgFuture2" Grid.Column="1" Grid.Row="0" Source="download.jpg" Margin="127,237,0,0" Height="55" Width="55" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <TextBlock x:Name="txtDay1" Grid.Column="1" HorizontalAlignment="Left" Margin="39,293,0,0" TextWrapping="Wrap" Text="Day1" VerticalAlignment="Top" Width="55" TextAlignment="Center" />
+        <TextBlock x:Name="txtDay2" Grid.Column="1" HorizontalAlignment="Left" Margin="127,293,0,0" TextWrapping="Wrap" Text="Day2" VerticalAlignment="Top" Width="55" TextAlignment="Center" />
+        <TextBlock x:Name="txtDay3" Grid.Column="1" HorizontalAlignment="Left" Margin="206,293,0,0" TextWrapping="Wrap" Text="Day3" VerticalAlignment="Top" Width="55" TextAlignment="Center" />
+        <TextBlock x:Name="txtDay4" Grid.Column="1" HorizontalAlignment="Left" Margin="294,293,0,0" TextWrapping="Wrap" Text="Day4" VerticalAlignment="Top" Width="55" TextAlignment="Center" />
+        <TextBlock x:Name="txtHumidNum" Grid.Column="1" HorizontalAlignment="Left" Margin="39,155,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="66" FontSize="10" TextAlignment="Center"/>
+        <TextBlock x:Name="txtHumidNum_Copy" Grid.Column="1" HorizontalAlignment="Left" Margin="271,155,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="66" FontSize="10" TextAlignment="Center"/>
     </Grid>
 </Window>
