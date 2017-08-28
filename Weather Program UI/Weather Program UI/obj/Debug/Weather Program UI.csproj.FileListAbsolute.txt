@@ -1,0 +1,13 @@
+C:\Users\zac.arkley-smith\Documents\SSD TASKS\Assesment 2(Weather Program)\Weather Program UI\Weather Program UI\bin\Debug\Weather Program UI.exe.config
+C:\Users\zac.arkley-smith\Documents\SSD TASKS\Assesment 2(Weather Program)\Weather Program UI\Weather Program UI\bin\Debug\Weather Program UI.exe
+C:\Users\zac.arkley-smith\Documents\SSD TASKS\Assesment 2(Weather Program)\Weather Program UI\Weather Program UI\bin\Debug\Weather Program UI.pdb
+C:\Users\zac.arkley-smith\Documents\SSD TASKS\Assesment 2(Weather Program)\Weather Program UI\Weather Program UI\obj\Debug\Weather Program UI.csprojResolveAssemblyReference.cache
+C:\Users\zac.arkley-smith\Documents\SSD TASKS\Assesment 2(Weather Program)\Weather Program UI\Weather Program UI\obj\Debug\MainWindow.baml
+C:\Users\zac.arkley-smith\Documents\SSD TASKS\Assesment 2(Weather Program)\Weather Program UI\Weather Program UI\obj\Debug\MainWindow.g.cs
+C:\Users\zac.arkley-smith\Documents\SSD TASKS\Assesment 2(Weather Program)\Weather Program UI\Weather Program UI\obj\Debug\App.g.cs
+C:\Users\zac.arkley-smith\Documents\SSD TASKS\Assesment 2(Weather Program)\Weather Program UI\Weather Program UI\obj\Debug\Weather Program UI_MarkupCompile.cache
+C:\Users\zac.arkley-smith\Documents\SSD TASKS\Assesment 2(Weather Program)\Weather Program UI\Weather Program UI\obj\Debug\Weather Program UI.g.resources
+C:\Users\zac.arkley-smith\Documents\SSD TASKS\Assesment 2(Weather Program)\Weather Program UI\Weather Program UI\obj\Debug\Weather_Program_UI.Properties.Resources.resources
+C:\Users\zac.arkley-smith\Documents\SSD TASKS\Assesment 2(Weather Program)\Weather Program UI\Weather Program UI\obj\Debug\Weather Program UI.csproj.GenerateResource.Cache
+C:\Users\zac.arkley-smith\Documents\SSD TASKS\Assesment 2(Weather Program)\Weather Program UI\Weather Program UI\obj\Debug\Weather Program UI.exe
+C:\Users\zac.arkley-smith\Documents\SSD TASKS\Assesment 2(Weather Program)\Weather Program UI\Weather Program UI\obj\Debug\Weather Program UI.pdb
