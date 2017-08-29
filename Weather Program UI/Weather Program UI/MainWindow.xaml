@@ -29,8 +29,8 @@
         <TextBlock Name="txtMinTemp" Grid.Column="1" HorizontalAlignment="Left" Margin="70,216,0,0" TextWrapping="Wrap" Text="Min Temp" VerticalAlignment="Top" Width="100" TextAlignment="Center"/>
         <TextBlock Name="txtMaxTemp" Grid.Column="1" HorizontalAlignment="Right" Margin="0,216,70,0" TextWrapping="Wrap" Text="Max Temp" VerticalAlignment="Top" RenderTransformOrigin="-0.38,0.627" Width="100" TextAlignment="Center"/>
         <Button x:Name="btnGo" Content="Go!" HorizontalAlignment="Left" VerticalAlignment="Top" Width="33" Margin="96,100,0,0" Height="18" BorderBrush="#FFEAACAC"/>
-        <Image x:Name="imgFuture1" Grid.Column="1" Grid.Row="0" Source="download.jpg" Margin="39,237,0,0" Height="55" Width="55" HorizontalAlignment="Left" VerticalAlignment="Top"/>
-        <Image x:Name="imgFuture4" Grid.Column="1" Grid.Row="0" Source="download.jpg" Margin="0,237,39,0" Height="55" Width="55" HorizontalAlignment="Right" VerticalAlignment="Top"/>
+        <Image x:Name="imgFuture1" Grid.Column="1" Grid.Row="0" Source="download.jpg" Margin="50,237,0,0" Height="55" Width="55" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Image x:Name="imgFuture4" Grid.Column="1" Grid.Row="0" Source="download.jpg" Margin="0,237,50,0" Height="55" Width="55" HorizontalAlignment="Right" VerticalAlignment="Top"/>
         <Image x:Name="imgFuture3" Grid.Column="1" Grid.Row="0" Source="download.jpg" Margin="0,237,127,0" Height="55" Width="55" HorizontalAlignment="Right" VerticalAlignment="Top"/>
         <Image x:Name="imgFuture2" Grid.Column="1" Grid.Row="0" Source="download.jpg" Margin="127,237,0,0" Height="55" Width="55" HorizontalAlignment="Left" VerticalAlignment="Top"/>
         <TextBlock x:Name="txtDay1" Grid.Column="1" HorizontalAlignment="Left" Margin="39,293,0,0" TextWrapping="Wrap" Text="Day1" VerticalAlignment="Top" Width="55" TextAlignment="Center" />

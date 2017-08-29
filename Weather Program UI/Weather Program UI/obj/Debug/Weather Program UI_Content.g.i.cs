@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("anna-1.gif")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("cloud.png")]
 
 

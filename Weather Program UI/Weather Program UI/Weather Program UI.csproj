@@ -94,13 +94,16 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="g.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="download.jpg" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="anna-1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="rainclooud.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="cloud.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
