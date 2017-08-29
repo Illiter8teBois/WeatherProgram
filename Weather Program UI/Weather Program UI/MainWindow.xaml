@@ -17,7 +17,7 @@
             <TextBlock Text="Nearest Weather Radar" TextWrapping="Wrap" Height="66" Width="96" HorizontalAlignment="Left"/>
             <Button x:Name="btnProxyWin" Content="Proxy Settings" HorizontalAlignment="Left" VerticalAlignment="Top" Width="82" Background="#FFD19494"/>
             <TextBlock Text="Weather Program TM"/>
-            <TextBlock Text="Ph:Go to Hell"/>
+            <TextBlock Text="Ph: 666"/>
             <Separator Height="132" Margin="20,0,21,0" Width="88" Background="{x:Null}"/>
         </StackPanel>
         <Image x:Name="imgWeather" Grid.Column="1" Grid.Row="0" Source="download.jpg" Margin="140,81,0,0" Height="100" Width="100" HorizontalAlignment="Left" VerticalAlignment="Top"/>

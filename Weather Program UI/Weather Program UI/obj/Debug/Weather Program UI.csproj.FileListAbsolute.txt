@@ -11,3 +11,5 @@ C:\Users\zac.arkley-smith\Documents\SSD TASKS\Assesment 2(Weather Program)\Weath
 C:\Users\zac.arkley-smith\Documents\SSD TASKS\Assesment 2(Weather Program)\Weather Program UI\Weather Program UI\obj\Debug\Weather Program UI.csproj.GenerateResource.Cache
 C:\Users\zac.arkley-smith\Documents\SSD TASKS\Assesment 2(Weather Program)\Weather Program UI\Weather Program UI\obj\Debug\Weather Program UI.exe
 C:\Users\zac.arkley-smith\Documents\SSD TASKS\Assesment 2(Weather Program)\Weather Program UI\Weather Program UI\obj\Debug\Weather Program UI.pdb
+C:\Users\zac.arkley-smith\Documents\SSD TASKS\Assesment 2(Weather Program)\Weather Program UI\Weather Program UI\obj\Debug\ProxySettings.baml
+C:\Users\zac.arkley-smith\Documents\SSD TASKS\Assesment 2(Weather Program)\Weather Program UI\Weather Program UI\obj\Debug\ProxySettings.g.cs
