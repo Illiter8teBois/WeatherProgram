@@ -16,7 +16,7 @@
         <TextBox x:Name="txtProxyPort" HorizontalAlignment="Left" Height="25" Margin="10,10,0,0" Grid.Row="2" TextWrapping="Wrap" Text="Proxy Port" VerticalAlignment="Top" Width="272" Foreground="#FF917777"/>
         <TextBox x:Name="txtUser" HorizontalAlignment="Left" Height="25" Margin="10,10,0,0" Grid.Row="3" TextWrapping="Wrap" Text="Username" VerticalAlignment="Top" Width="272" Foreground="#FF917777"/>
         <TextBox x:Name="txtProxyAd" HorizontalAlignment="Left" Height="25" Margin="10,10,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Proxy Address" VerticalAlignment="Top" Width="272" Foreground="#FF917777"/>
-        <PasswordBox  x:Name="pasPassword" HorizontalAlignment="Left" Height="25" Margin="10,9,0,0" Grid.Row="4"  VerticalAlignment="Top" Width="272" Foreground="#FF917777" Password="Password"/>
+        <PasswordBox  x:Name="pasPassword" HorizontalAlignment="Left" Height="25" Margin="10,9,0,0" Grid.Row="4"  VerticalAlignment="Top" Width="272" Foreground="Black" Password="Password"/>
         <Button x:Name="btnSave" Content="Save" HorizontalAlignment="Left" Grid.Row="5" VerticalAlignment="Top" Width="146" Height="45"/>
         <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" Grid.Row="5" VerticalAlignment="Top" Width="146" Height="45" Margin="146,0,0,0"/>
         <CheckBox x:Name="chkEnable" Content="Enable Proxy" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>

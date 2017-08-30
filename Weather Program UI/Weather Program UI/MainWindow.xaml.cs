@@ -24,5 +24,14 @@ namespace Weather_Program_UI
         {
             InitializeComponent();
         }
+
+        private void btnProxyWin_Click(object sender, RoutedEventArgs e)
+        {
+            ProxySettings window = new ProxySettings();
+
+            window.Show();
+        }
+
+       
     }
 }
